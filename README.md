@@ -41,7 +41,8 @@ The purpose of GreenMind is to promote sustainable living by making eco-consciou
   🔗 [https://github.com/tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)
 
 ## 📁 Project Structure,Installation and setup
-git clone https://github.com/your-username/subscription-box-project.git
+```bash
+git clone https://github.com/your-username/food-expiry-tracker.git
 cd food-expiry-tracker
 npm install
 npm run dev
