@@ -40,6 +40,10 @@ The purpose of GreenMind is to promote sustainable living by making eco-consciou
 - **Heroicons (via React Heroicons)** – Beautiful hand-crafted SVG icons.  
   🔗 [https://github.com/tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)
 
-## 📁 Project Structure
+## 📁 Project Structure,Installation and setup
+git clone https://github.com/your-username/subscription-box-project.git
+cd food-expiry-tracker
+npm install
+npm run dev
 
 
