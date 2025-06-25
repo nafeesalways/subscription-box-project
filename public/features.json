@@ -1,0 +1,146 @@
+[
+  {
+    "id": 0,
+    "name": "Adobe Creative Cloud",
+    "tech_category": "Design Software",
+    "category_id": 0,
+    "price": "$52.99",
+    "frequency": "Monthly",
+    "thumbnail": "https://img.freepik.com/free-photo/abstract-colorful-3d-shape-graphics-as-label-template-generative-ai_191095-927.jpg?ga=GA1.1.110764215.1723834094&semt=ais_hybrid&w=740",
+    "description": "Adobe Creative Cloud is a comprehensive suite of professional-grade creative software that includes over 20 apps such as Photoshop, Illustrator, InDesign, Premiere Pro, After Effects, and more. It is widely used by designers, video editors, photographers, web developers, and content creators for tasks ranging from graphic design and image editing to video production and UI/UX design. The suite integrates cloud storage (100GB), Adobe Fonts, Adobe Portfolio, and cross-platform functionality, allowing creatives to work seamlessly across Windows, macOS, and web platforms. Creative Cloud also offers Adobe Express and Firefly AI for fast, AI-powered design workflows. Regular updates, tutorials, and community forums make it a go-to platform for professionals and students alike.",
+    "features": [
+      "Access to 20+ Adobe apps",
+      "100GB cloud storage",
+      "Portfolio website & Adobe Fonts",
+      "Cross-platform sync"
+    ],
+    "platforms": ["Windows", "macOS", "Web"],
+    "support_contact": "support@adobe.com",
+    "official_site": "https://www.adobe.com/creativecloud.html",
+    "source": "https://www.adobe.com/creativecloud/plans.html",
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    }
+  },
+  {
+    "id": 1,
+    "name": "GitHub Copilot",
+    "tech_category": "Developer Tools",
+    "category_id": 1,
+    "price": "$10.00",
+    "frequency": "Monthly",
+    "thumbnail": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+    "description": "GitHub Copilot is an AI-powered coding assistant developed by GitHub and OpenAI. It uses Codex, a language model trained on billions of lines of public code, to provide real-time suggestions and code completions directly within code editors like Visual Studio Code and JetBrains IDEs. Copilot enhances productivity by offering entire lines or blocks of code based on the context of the file you're working on. It supports dozens of languages including JavaScript, Python, C++, and more, making it ideal for developers across a wide range of domains. Whether you're writing boilerplate code, exploring unfamiliar libraries, or building large-scale applications, Copilot can significantly speed up development and reduce cognitive load. It also integrates well with GitHub repositories and dev workflows.",
+    "features": [
+      "Context-aware code suggestions",
+      "Support for multiple programming languages",
+      "Visual Studio Code and JetBrains plugin",
+      "Trained on billions of lines of code"
+    ],
+    "platforms": ["Windows", "macOS", "Linux"],
+    "support_contact": "support@github.com",
+    "official_site": "https://github.com/features/copilot",
+    "source": "https://docs.github.com/en/copilot/getting-started-with-github-copilot/about-github-copilot",
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Figma Professional",
+    "tech_category": "UI/UX Design",
+    "category_id": 2,
+    "price": "$12.00",
+    "frequency": "Monthly",
+    "thumbnail": "https://img.freepik.com/free-vector/businessman-show-chart-report-screen-man-woman-office-worker_81522-2688.jpg?ga=GA1.1.110764215.1723834094&semt=ais_hybrid&w=740",
+    "description": "Figma Professional is a powerful web-based UI/UX design and prototyping tool that enables individuals and teams to create interactive, high-fidelity interfaces with ease. Figma supports collaborative workflows where multiple users can work on a design in real-time, making it ideal for agile development environments and remote teams. The Professional plan includes features like unlimited version history, shared libraries, team fonts, and advanced permission controls. Designers can create components, prototype interactions, and collect feedback—all within one tool. Figma also integrates with tools like Slack, Notion, and Jira to streamline design-to-development handoffs.",
+    "features": [
+      "Unlimited version history",
+      "Team libraries and shared fonts",
+      "Real-time collaboration",
+      "Design + Prototype + Comment"
+    ],
+    "platforms": ["Web", "Windows", "macOS"],
+    "support_contact": "support@figma.com",
+    "official_site": "https://www.figma.com/pricing/",
+    "source": "https://help.figma.com/hc/en-us/articles/360039823674",
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Notion Plus",
+    "tech_category": "Productivity",
+    "category_id": 3,
+    "price": "$8.00",
+    "frequency": "Monthly",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
+    "description": "Notion Plus is a powerful productivity platform that combines note-taking, task management, database creation, and collaboration tools into one unified workspace. It is ideal for both individuals and teams who need an organized digital environment. With Notion Plus, users get unlimited blocks for team workspaces, version history for 30 days, advanced sharing permissions, and access to Notion’s API for automation and integrations. It supports a wide range of use cases including project management, documentation, knowledge bases, CRM systems, and personal goal tracking. Notion is available across all major platforms and syncs data seamlessly, making it a versatile choice for modern digital workflows.",
+    "features": [
+      "Unlimited blocks for teams",
+      "Advanced permissions",
+      "Version history (30 days)",
+      "API access and integrations"
+    ],
+    "platforms": ["Web", "Windows", "macOS", "iOS", "Android"],
+    "support_contact": "team@makenotion.com",
+    "official_site": "https://www.notion.so/pricing",
+    "source": "https://www.notion.so/help/what-are-the-differences-between-plans",
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "JetBrains All Products Pack",
+    "tech_category": "IDE/Programming Tools",
+    "category_id": 4,
+    "price": "$24.90",
+    "frequency": "Monthly",
+    "thumbnail": "https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg",
+    "description": "The JetBrains All Products Pack offers full access to JetBrains’ entire suite of IDEs and developer tools in one subscription. It includes IntelliJ IDEA for Java and Kotlin development, PyCharm for Python, WebStorm for JavaScript, PhpStorm for PHP, and additional tools like DataGrip (for databases), Rider (for .NET), CLion (for C/C++), and ReSharper. Designed for professional developers and teams, these tools provide intelligent code assistance, deep code analysis, version control integration, UI design support, and advanced refactoring capabilities. The subscription includes updates, Toolbox App integration, and cross-platform compatibility, making it an industry-standard development environment.",
+    "features": [
+      "Access to 15+ developer tools",
+      "Toolbox App integration",
+      "Cross-platform compatibility",
+      "Intelligent code analysis and refactoring"
+    ],
+    "platforms": ["Windows", "macOS", "Linux"],
+    "support_contact": "sales@jetbrains.com",
+    "official_site": "https://www.jetbrains.com/all/",
+    "source": "https://www.jetbrains.com/store/#commercial?billing=monthly",
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Canva Pro",
+    "tech_category": "Design Tools",
+    "category_id": 5,
+    "price": "$14.99",
+    "frequency": "Monthly",
+    "thumbnail": "https://img.freepik.com/free-vector/flat-woman-taking-photos-plant_23-2149012405.jpg?ga=GA1.1.110764215.1723834094&semt=ais_hybrid&w=740",
+    "description": "Canva Pro is a premium version of Canva’s online design platform, offering a vast library of professional templates, fonts, stock images, and videos. It is widely used by marketers, educators, content creators, and small businesses for tasks such as social media design, presentation creation, video editing, and brand management. Canva Pro includes advanced tools like Magic Resize (for auto-resizing designs for multiple platforms), Brand Kit (for consistent brand usage), and background remover. Users can create unlimited folders, access team collaboration features, and schedule content to social platforms. With a simple drag-and-drop interface, Canva Pro enables anyone to design like a pro.",
+    "features": [
+      "Brand kit and Magic Resize",
+      "Premium templates and assets",
+      "Team collaboration tools",
+      "Unlimited folders and storage"
+    ],
+    "platforms": ["Web", "iOS", "Android"],
+    "support_contact": "support@canva.com",
+    "official_site": "https://www.canva.com/pricing/",
+    "source": "https://www.canva.com/help/article/what-do-i-get-with-canva-pro",
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    }
+  }
+]

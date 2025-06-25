@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "name": "Adobe Creative Cloud",
+    "tech_category": "Design Software",
+    "price": "$52.99",
+    "frequency": "Monthly",
+    "thumbnail": "https://www.adobe.com/content/dam/cc/icons/adobe-creative-cloud.svg",
+    "rating": 4.6,
+    "number_of_reviews": 12850
+  },
+  {
+    "id": 1,
+    "name": "GitHub Copilot",
+    "tech_category": "Developer Tools",
+    "price": "$10.00",
+    "frequency": "Monthly",
+    "thumbnail": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+    "rating": 4.5,
+    "number_of_reviews": 9520
+  },
+  {
+    "id": 2,
+    "name": "Figma Professional",
+    "tech_category": "UI/UX Design",
+    "price": "$12.00",
+    "frequency": "Monthly",
+    "thumbnail": "https://cdn.worldvectorlogo.com/logos/figma-1.svg",
+    "rating": 4.8,
+    "number_of_reviews": 17530
+  },
+  {
+    "id": 3,
+    "name": "Notion Plus",
+    "tech_category": "Productivity",
+    "price": "$8.00",
+    "frequency": "Monthly",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
+    "rating": 4.7,
+    "number_of_reviews": 11240
+  },
+  {
+    "id": 4,
+    "name": "JetBrains All Products Pack",
+    "tech_category": "IDE/Programming Tools",
+    "price": "$24.90",
+    "frequency": "Monthly",
+    "thumbnail": "https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg",
+    "rating": 4.9,
+    "number_of_reviews": 8900
+  },
+  {
+    "id": 5,
+    "name": "Canva Pro",
+    "tech_category": "Design Tools",
+    "price": "$14.99",
+    "frequency": "Monthly",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg",
+    "rating": 4.7,
+    "number_of_reviews": 20300
+  }
+]
