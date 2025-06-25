@@ -12,6 +12,7 @@ GreenMind is a modern eCommerce web application focused on selling eco-friendly 
 The purpose of GreenMind is to promote sustainable living by making eco-conscious products easily accessible online. The platform provides users with a smooth browsing and purchasing experience, highlighting the benefits of green alternatives.
 
 ## 🚀 Key Features
+![Subscription Box Screenshot](https://sell.cratejoy.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-15-at-8.40.05-AM-1024x865.png)
 
 - 🛒 **Responsive Design**: Optimized for mobile, tablet, and desktop.
 - 🔍 **Product Filtering & Search**: Easily find what you’re looking for.
